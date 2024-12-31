@@ -49,4 +49,5 @@ A React-based web application that allows users to generate QR codes for any inp
 - `QRCodeGenerator`: Main component handling QR code generation and UI interaction.  
 
 ## Screenshot
+![qrcode](https://github.com/user-attachments/assets/e5aa31cb-503c-454f-9a2b-4c751cb4afeb)
 
